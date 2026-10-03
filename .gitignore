@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+npm-debug.log*
+*.log
+.env
+.vscode/*
+!.vscode/extensions.json
+
+# Full licensed font collection (source download) — only the weight files
+# actually used are committed, under public/fonts/.
+/Neue_Haas_Grotesk_Collection/
+
+
+public/pagefind/
